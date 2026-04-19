@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive analysis of human resource data using Power BI. The goal is to derive meaningful insights about employee behavior, recruitment trends, performance evaluations, and workforce forecasting.
 
-## 📌 Project Objective
+## Project Objective
 
 To examine various aspects of the organization's workforce and generate actionable insights that support strategic HR decisions. Key objectives include:
 - Analyzing reasons behind employee exits at different locations.
@@ -11,12 +11,12 @@ To examine various aspects of the organization's workforce and generate actionab
 - Assessing the urgency of current and future hiring needs.
 - Forecasting workforce requirements for the next two consecutive years.
 
-## 📂 Project Files
+## Project Files
 
 - `Human Resource Analysis.pbix`: Power BI Dashboard file.
 - `Presentation on Human Resource Analysis.pptx`: Slide deck summarizing project insights and visualizations.
 
-## 🔍 Key Insights
+## Key Insights
 
 1. **Employee Exit Analysis**:
    - Highest exit rate observed in Washington office.
@@ -35,25 +35,25 @@ To examine various aspects of the organization's workforce and generate actionab
    - Predicted moderate workforce need for 2023–2024 (22–23 employees).
    - Suggests maintaining a flexible workforce with possible growth post-2024.
 
-## 🧹 Data Preparation
+## Data Preparation
 
 - Source: HR dataset (Excel format).
 - Cleaning steps included null value removal, format verification, and type correction.
 - Loaded into Power BI for advanced visualization and forecasting.
 
-## 📈 Tools Used
+## Tools Used
 
 - **Power BI**
 - **Microsoft Excel**
 - **DAX (Data Analysis Expressions)**
 
-## 📅 Last Updated
+## Last Updated
 July 20, 2025
 
-## 🙋‍♂️ Author
+## Author
 **Mohd Areeb Ansari**
 
-📝 Author
+Author
 Mohd Areeb
 [LinkedIn Profile] (www.linkedin.com/in/mohd-areeb-189486286)
 
